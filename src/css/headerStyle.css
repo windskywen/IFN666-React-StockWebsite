@@ -1,0 +1,17 @@
+.container{
+    width: 940px;
+    margin: 0 auto;
+}
+
+.header{
+    display: flex;
+    justify-content: flex-start;
+}
+
+.page-title{
+    margin-right:20px;
+}
+
+ul{
+    list-style-type: none;
+}

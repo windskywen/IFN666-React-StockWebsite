@@ -1,0 +1,33 @@
+.stocks{
+    margin: 0 auto;
+}
+
+.search-container{
+    margin: 0 auto;
+}
+
+.search-title{
+    display: flex;
+}
+
+.select-stock-title{
+    margin-right: 250px;
+}
+
+
+.search-input{
+    height: 25px;
+    width: 150px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+}
+
+.search-button{
+    height: 25px;
+    width: 65px;
+    margin-right: 175px;
+}
+
+.select-industry{
+    height: 25px;
+}
